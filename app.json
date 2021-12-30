@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "empireFood",
-    "slug": "empireFood",
+    "name": "empFood",
+    "slug": "empFood",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashImg.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
